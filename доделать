@@ -1,0 +1,6 @@
+# CHEJUHKA
+size(600,400)
+strokeWeight(10)
+line(200,200,395,200)
+strokeWeight(10)
+line(300,105,300,300)
